@@ -1,0 +1,72 @@
+Type Combos
+
+Normal/Ice
+Takes x4 from fighting
+Takes x2 from rock, steel and fire
+Takes Neutral Damage from Normal, Flying, Poison, Ground, Bug, Water, Grass, Electric, Psychic, Dragon, Dark and Fairy
+Takes x1/2 from Ice
+Immunity to Ghost
+
+Normal/Bug
+Takes x2 from Flying, Rock and Fire
+Takes Neutral Damage from Normal, Fighting, Poison, Bug, Steel, Water, Electric, Psychic, Ice, Dragon, Dark and Fairy
+Takes x1/2 from Ground and Grass
+Immunity to Ghost
+
+Normal/Poison
+Takes x2 from Ground and Psychic
+Takes Neutral Damage from Normal, Fighting, Flying, Rock, Steel, Fire, Water, Electric, Ice, Dragon and Dark
+Takes x1/2 from Poison, Bug, Grass and Fairy
+Immunity to Ghost
+
+Normal/Rock
+Takes x4 from fighting
+Takes x2 from Ground, Steel, Water and Grass
+Takes Neutral Damage from Rock, Bug, Electric, Psychic, Ice, Dragon, Dark and Fairy
+Takes x1/2 from Normal, Flying, Poison and Fire
+Immunity to ghost
+
+Electric/Fighting
+Takes x2 from Ground, Psychic and Fairy
+Takes Neutral Damage from Normal, fighting, flying, poison, ghost, fire, water, grass, ice and dragon
+Takes x1/2 from rock, bug, steel, electric and dark
+
+Grass/Fire
+Takes x2 from Flying, Poison and Rock
+Takes Neutral Damage from Normal, fighting, ground, bug, ghost, fire, water, psychic, ice, dragon and dark
+Takes x1/2 damage from steel, electric and fairy
+Takes x1/4 damage from grass
+
+Fire/Fairy
+Takes x2 from Poison, Ground, Rock and Water
+Takes Neutral Damage from Normal, Flying, Ghost, Steel, Electric and Psychic
+Takes x1/2 from Fighting, Fire, Grass, Ice, Dark and Fairy
+Takes x1/4 from Bug
+Immunity to Dragon
+
+Normal/steel
+Takes x4 from fighting
+Takes x2 from Ground and Fire
+Takes Neutral Damage from Water, Electric and Dark
+Takes x1/2 damage from Normal, Flying, Rock, Bug, Steel, Grass, Psychic, Ice, Dragon and Fairy
+Immunity to Poison and Ghost
+
+Bug/Dragon
+Takes x2 from Flying, Rock, Ice, Dragon and Fairy
+Takes Neutral Damage from Normal, Poison, Bug, Ghost, Steel, Fire, Psychic and Dark
+Takes x1/2 from Fighting, Ground, Water and Electric
+Takes x1/4 from Grass
+
+Bug/Dark
+Takes x2 from Flying, Rock, Bug, Fire and Fairy
+Takes Neutral Damage from Normal, Fighting, Poison, Steel, Water, Electric, Ice and Dragon
+Takes x1/2 from Ground, Ghost, Grass and Dark
+Immunity to Psychic
+
+Steel/Poison
+Takes x4 from Ground
+Takes x2 from Fire
+Takes Neutral from Fighting, Ghost, Water, Electric, Psychic and Dark
+Takes x1/2 from Normal, Flying, Rock, Steel, Ice and Dragon
+Takes x1/4 from Bug, Grass and Fairy
+Immunity to Poison
